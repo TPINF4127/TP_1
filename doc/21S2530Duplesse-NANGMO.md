@@ -4,4 +4,6 @@
 - Création du repository et du dossier /doc
 - Création de mon fichier de suivi
 - Initialisation du README.md
-- configuration de l'organisation
+- Tp sur la perte de Huber
+- Tp sur la MSE
+- validation des pull request
